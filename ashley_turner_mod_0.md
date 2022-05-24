@@ -34,4 +34,4 @@ Changes to be committed:
   ![Tacoma](https://user-images.githubusercontent.com/105073232/168695171-1a128f2f-b240-48a6-bcf9-7c9f8e852514.jpeg)
 
   
-  [⚡️ Using your new skills, TURN THIS SENTENCE INTO A LINK TO YOUR GIST ⚡️](https://www.youtube.com/watch?v=6NUYZ6enM2I)
+  [⚡️ Using your new skills, TURN THIS SENTENCE INTO A LINK TO YOUR GIST ⚡️]https://github.com/ashuhleyt/ashley_turner_mod_0_plan.md/edit/main/ashley_turner_mod_0.md
